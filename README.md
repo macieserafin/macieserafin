@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=160&section=header&text=Maciej%20Serafin&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Backend%20Developer&descSize=18&descAlignY=62" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=140&section=header&text=Maciej%20Serafin&fontColor=ffffff&fontSize=46&fontAlignY=50" alt="header"/>
 
 <div align="center">
 
